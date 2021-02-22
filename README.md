@@ -1,4 +1,4 @@
-# unity-render-pipelines
+# Unity Render Pipelines
 
 <img src="./README.png" width="500" />
 
