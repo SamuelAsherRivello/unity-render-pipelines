@@ -1,4 +1,4 @@
-# unity-render-pipelines
+# Unity Render Pipelines
 
 <img src="./README.png" width="500" />
 
@@ -6,7 +6,7 @@
 
 I created this for my own educational purposes as well as using it for training others in the classroom.
 
-It is a series of small demos. Each shows one design pattern.
+It is a series of small projects. Each is the provided Unity template upon opening a new project of a given render pipeline.
 
 Enjoy!
 
